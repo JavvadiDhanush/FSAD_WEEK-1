@@ -1,11 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
- <title>My Website</title>
-</head>
-<body>
- <h1>FRONT END DEVELOPMENT FRAMWORKS</h1>
- <h2> FRONT END DEVELOPMENT FRAMWORKS </h2>
- <p>A short paragraph about yourself.</p>
-</body>
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<title>My Website</title> 
+</head> 
+<body> 
+<h1>FULL STACK APPLICATION DEVELOPMENT</h1> 
+<h2>FULL STACK APPLICATION DEVELOPMENT</h2> 
+<p>Dr. S. Spandana, section-5 FSAD</p> 
+</body> 
 </html>
